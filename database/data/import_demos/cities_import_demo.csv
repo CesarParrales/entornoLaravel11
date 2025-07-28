@@ -1,0 +1,8 @@
+country_iso_code_2,province_name,city_name,geoname_id,latitude,longitude,is_active
+EC,Pichincha,Quito,3652462,-0.180653,-78.467834,1
+EC,Pichincha,Sangolquí,,,-0.333889,-78.445556,1
+EC,Guayas,Guayaquil,3657509,-2.170998,-79.922359,1
+EC,Guayas,Durán,3658668,-2.17301,-79.82601,1
+US,California,Los Angeles,5368361,34.052235,-118.243683,1
+US,California,San Francisco,5391959,37.774929,-122.419418,1
+US,New York,New York City,5128581,40.712728,-74.006015,0

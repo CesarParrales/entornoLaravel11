@@ -15,4 +15,8 @@ return Application::configure(basePath: dirname(__DIR__))
     })
     ->withExceptions(function (Exceptions $exceptions) {
         //
+    })
+    ->withSchedule(function ($schedule) {
+        $schedule->command('app:check-user-anniversaries')->dailyAt('02:00');
+        $schedule->command('app:process-monthly-bonuses')->monthlyOn(1, '03:00'); // El 1ro de cada mes a las 03:00
     })->create();

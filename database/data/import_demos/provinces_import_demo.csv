@@ -1,0 +1,6 @@
+country_iso_code_2,province_name,province_code,geoname_id,latitude,longitude,is_active
+EC,Pichincha,EC-P,3652462,0.180653,-78.467834,1
+EC,Guayas,EC-G,3657509,-2.205844,-79.907948,1
+EC,Azuay,EC-A,3660859,-2.90055,-79.00453,1
+US,California,US-CA,5332921,36.778261,-119.417932,1
+US,New York,US-NY,5128638,40.712776,-74.005974,0
